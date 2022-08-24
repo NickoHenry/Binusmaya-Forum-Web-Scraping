@@ -1,0 +1,101 @@
+,Matkul,Start Date,End Date,Title,Content
+0,Compilation Techniques,"07 Jan 2022, 00:00 GMT+7","14 Jan 2022, 23:59 GMT+7",Contoh Soal tipe A,"Silakan di download dan dipelajari ya.
+
+ thanks,
+
+ Richard Anderson
+
+Jawaban TIPE A - UAS2021Ganjil - COMP6062 - Compilation Technics - D2749"
+1,Computer Vision,"05 Jan 2022, 00:00 GMT+7","12 Jan 2022, 23:59 GMT+7",Object Detection,"Silahkan pelajari mengenai object detection yang ada pada slide. Kemudian, silahkan tuliskan pada forum ini 1 buah metode lain untuk object detection yang belum ada pada slides. Untuk metode yang ditulis pada forum harus berbeda untuk setiap mahasiswa. Silahkan cek jawaban rekan kalian terlebih dahulu sebelum submit jawaban kalian.
+
+ Good Luck!
+
+ NB: metode dengan versi berbeda dianggap metode yang berbeda"
+2,Deep Learning,"06 Jan 2022, 00:00 GMT+7","13 Jan 2022, 23:59 GMT+7","COMP6587-DEEP LEARNING Lecturer : D0434-Dr. Ir. Haryono Soeparno, M.Sc Class : LD01; GSLC-03; Individual Assignment No-3","Consider the Neural Voice Puppetry as part of PPT Session 12 in Binusmaya.
+
+Neural Voice Puppetry is a Deep Learning model which input is a speech (audio) and the output is a video that simulates a person speaking the speech.
+
+Given an audio sequence of a source person or digital assistant, it can be generated a photo-realistic output video of a target person that is in sync with the audio of the source input. This audio-driven facial reenactment is driven by a deep neural network that employs a latent 3D face model space. Through the underlying 3D representation, the model inherently learns temporal stability while we leverage neural rendering to generate photo-realistic output frames.
+
+Question :
+
+Search some relevant references and read the concept and application of Neural Voice Puppetry. Then, write an article (in English or Bahasa Indonesia) with a title “Neural Voice Puppetry and Its Applications”, for 5-7 pages together with references.
+
+ ### End of Individual Assignment-03 ###
+
+ Note :
+
+1. Write your name, student ID at the top of your answer sheet
+
+2. Upload at FORUM Binusmaya and also send to my email : haryono@binus.edu, before, 13 January 2022, 23.59
+
+Write the SUBJECT in your email :
+
+“COMP6587-DEEP LEARNING - GSLC-03 - Individual Assignment-03 - your name - your NIM”
+
+3. Write your File Name :
+
+“your name – GSLC-03 - Individual Assignment-03”
+
+ "
+3,Embedded Systems,"06 Jan 2022, 00:00 GMT+7","13 Jan 2022, 23:59 GMT+7",IOT INDUSTRIAL,"Hai rekan-rekan mahasiswa,
+
+ Saya harap dalam pembelajaran GSLC pertemuan ke-12 kemarin, teman-teman sudah membaca beberapa link yang tersedia pada materi power point dan materi tambahan di Binusmaya. Dibawah ini saya tambahkan beberapa link website yang dapat teman-teman jadikan bahan pembelajaran terkait bagaimana IoT menjadi salah satu faktor transformasi digital saat ini di dunia industri. Mohon teman-teman mahasiswa dapat membacanya dan menjadi bekal untuk menambah wawasan.
+
+ Link 1 : https://www.i-scoop.eu/digital-transformation/digital-transformation-technologies-iot/
+
+Link 2 : https://e.huawei.com/en/publications/global/ict_insights/201711060837/solutions/201712121546
+
+Link 3 : https://www.iotsens.com/what-role-does-the-iot-play-in-the-digital-transformation-process/
+
+ Jika ada kendala terhadap linknya, dapat menginformasikannya ke saya ya. Dan untuk sesi GSLC ini tidak ada tugas lagi, saya berharap teman-teman dapat mempersiapkan ujian akhir dengan sebaik-baiknya.
+
+Terima kasih."
+4,Entrepreneurship: Market Validation,NaN,NaN,NaN,NaN
+5,Information Retrieval,"07 Jan 2022, 00:00 GMT+7","07 Jan 2022, 23:59 GMT+7",Additional Slide (today's session),Additional Slide (today's session): https://www.slideshare.net/BhaskarMitra3/a-simple-introduction-to-word-embeddings
+6,Operating System,"08 Jan 2022, 00:00 GMT+7","08 Jan 2022, 23:59 GMT+7",Virtual memory,"1. Basic Algorithms replacement (virtual memory)
+
+ - Optimal:
+
+https://www.youtube.com/watch?v=XmdgDHhx0fg
+
+- Least recently used (LRU)
+
+https://www.youtube.com/watch?v=4wVp97-uqr0&t=278s
+
+- First-in-first-out (FIFO)
+
+https://www.youtube.com/watch?v=UTXkbcJUY74
+
+- Clock
+
+https://www.youtube.com/watch?v=J0qUiGoUqjc
+
+ 2. resident set Management
+
+The main difference between resident set management and page replacement policy:
+
+ In resident set management the operating system must decide how much main memory to allocate to a particular process when that process is swapped in. This can be a static allocation made at process creation time, or it can change dynamically.
+
+ In page replacement policy when the memory is full, a decision must be made as to which page or pages are to be replaced. The page replacement policy determining where the page should be load, and how the page load, and what type of algorithm should be used to load a page.
+
+ ref:https://cpentalk.com/322/difference-between-resident-management-replacement-policy
+
+  3. Virtual memory:
+
+- linux : page directory, Page middle, page table
+
+- unix :
+
+The page frame data table is used for page replacement
+
+Pointers are used to create lists within the table
+
+- window : Available, reserved, commited
+
+- android: no support virtual memory
+
+ tugasnya:
+
+1. mencari reference lainya, dan pahami secara mandiri. diskusikanlah!"
+7,Web Programming,NaN,NaN,NaN,NaN
